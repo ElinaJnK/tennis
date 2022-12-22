@@ -1,0 +1,1576 @@
+
+boucle n° = 1
+joueur i (courant) = 0
+Score G = 0, Score D =0
+randskill: 1
+Zenf fait un amorti_droit
+f =7
+Le volant a touche le filet
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  G  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  D   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :13,5
+
+boucle n° = 2
+joueur i (courant) = 1
+Score G = 0, Score D =1
+randskill: 2
+Jupj fait un amorti_gauche
+f =5
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 1 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  G  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   D   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :-3,4
+
+boucle n° = 3
+joueur i (courant) = 0
+Score G = 1, Score D =1
+randskill: 1
+Zenf fait un amorti_droit
+f =7
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  G  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  O  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   D   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :1,8
+
+boucle n° = 4
+joueur i (courant) = 1
+Score G = 1, Score D =2
+randskill: 3
+Jupj fait un drive
+f =2
+Le volant tombe bien dans le terrain adversaire
+randskill: 3
+Zenf fait un drive
+Les joueurs ont réussi de frappé le volant
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  G  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  D   -   -   - 
+14 -  -  -  O  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :3,14
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  D   -   -   - 
+14 -  -  -  G  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :3,14
+
+boucle n° = 5
+joueur i (courant) = 0
+Score G = 1, Score D =2
+randskill: 3
+Zenf fait un drive
+f =6
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  D   -   -   - 
+8  -  G  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :17,0
+
+boucle n° = 6
+joueur i (courant) = 1
+Score G = 1, Score D =3
+randskill: 1
+Jupj fait un amorti_droit
+f =4
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 1 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  D   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  G  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :1,-3
+
+boucle n° = 7
+joueur i (courant) = 0
+Score G = 2, Score D =3
+randskill: 1
+Zenf fait un amorti_droit
+f =5
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   O   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  D   -   -   - 
+4  -  -  G  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :11,0
+
+boucle n° = 8
+joueur i (courant) = 1
+Score G = 2, Score D =4
+randskill: 3
+Jupj fait un drive
+f =3
+Le volant tombe bien dans le terrain adversaire
+randskill: 0
+Zenf fait un smash
+Les joueurs ont réussi de frappé le volant
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  O  -  -  |  -  -  D   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  G  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :3,1
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  G  -  -  |  -  -  D   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :3,1
+
+boucle n° = 9
+joueur i (courant) = 0
+Score G = 2, Score D =4
+randskill: 0
+Zenf fait un smash
+f =5
+Le volant tombe bien dans le terrain adversaire
+randskill: 1
+Jupj fait un amorti_droit
+Joueur 1 a raté son retour
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  G  -  -  -  |  D  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   O   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :10,13
+
+boucle n° = 10
+joueur i (courant) = 0
+Score G = 3, Score D =4
+randskill: 0
+Zenf fait un smash
+f =10
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  G  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   D   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :-1,2
+
+boucle n° = 11
+joueur i (courant) = 1
+Score G = 3, Score D =5
+randskill: 0
+Jupj fait un smash
+f =9
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 1 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  D  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  G  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :-7,20
+
+boucle n° = 12
+joueur i (courant) = 0
+Score G = 4, Score D =5
+randskill: 3
+Zenf fait un drive
+f =9
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  G  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   D 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :2,-1
+
+boucle n° = 13
+joueur i (courant) = 1
+Score G = 4, Score D =6
+randskill: 1
+Jupj fait un amorti_droit
+f =3
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 1 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  O   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  D  -  -   -   -   - 
+12 -  -  G  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :9,8
+
+boucle n° = 14
+joueur i (courant) = 0
+Score G = 5, Score D =6
+randskill: 1
+Zenf fait un amorti_droit
+f =10
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  G  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  D  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :-3,23
+
+boucle n° = 15
+joueur i (courant) = 1
+Score G = 5, Score D =7
+randskill: 0
+Jupj fait un smash
+f =6
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 1 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  D  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  G  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :2,20
+
+boucle n° = 16
+joueur i (courant) = 0
+Score G = 6, Score D =7
+randskill: 3
+Zenf fait un drive
+f =1
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  D  -   O   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  G  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :10,0
+
+boucle n° = 17
+joueur i (courant) = 1
+Score G = 6, Score D =8
+randskill: 3
+Jupj fait un drive
+f =2
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 1 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  O  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   D 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  G  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :6,0
+
+boucle n° = 18
+joueur i (courant) = 0
+Score G = 7, Score D =8
+randskill: 2
+Zenf fait un amorti_gauche
+f =5
+Le volant a touche le filet
+Le volant tombe bien dans le terrain adversaire
+randskill: 0
+Jupj fait un smash
+Joueur 1 a raté son retour
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  G  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   D   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  O  -  -  -   -   -   - 
+Position du volant :6,15
+
+boucle n° = 19
+joueur i (courant) = 0
+Score G = 8, Score D =8
+randskill: 0
+Zenf fait un smash
+f =10
+Le volant a touche le filet
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   D   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  G  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :17,9
+
+boucle n° = 20
+joueur i (courant) = 1
+Score G = 8, Score D =9
+randskill: 3
+Jupj fait un drive
+f =5
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 1 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  G  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  D  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   O   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :11,11
+
+boucle n° = 21
+joueur i (courant) = 0
+Score G = 9, Score D =9
+randskill: 2
+Zenf fait un amorti_gauche
+f =7
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  G  -  |  D  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  O  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :0,9
+
+boucle n° = 22
+joueur i (courant) = 1
+Score G = 9, Score D =10
+randskill: 3
+Jupj fait un drive
+f =2
+Le volant tombe bien dans le terrain adversaire
+randskill: 2
+Zenf fait un amorti_gauche
+Les joueurs ont réussi de frappé le volant
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   D 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  O  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  G  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :5,5
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   D 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  G  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :5,5
+
+boucle n° = 23
+joueur i (courant) = 0
+Score G = 9, Score D =10
+randskill: 3
+Zenf fait un drive
+f =5
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  G  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   D 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :6,-2
+
+boucle n° = 24
+joueur i (courant) = 1
+Score G = 9, Score D =11
+randskill: 2
+Jupj fait un amorti_gauche
+f =2
+Le volant a touche le filet
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 1 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  G  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  O  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  D  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :7,9
+
+boucle n° = 25
+joueur i (courant) = 0
+Score G = 10, Score D =11
+randskill: 0
+Zenf fait un smash
+f =10
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  D  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  G  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :4,-1
+
+boucle n° = 26
+joueur i (courant) = 1
+Score G = 10, Score D =12
+randskill: 3
+Jupj fait un drive
+f =1
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 1 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   D 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 G  -  -  -  -  -  |  O  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :7,11
+
+boucle n° = 27
+joueur i (courant) = 0
+Score G = 11, Score D =12
+randskill: 2
+Zenf fait un amorti_gauche
+f =5
+Le volant tombe bien dans le terrain adversaire
+randskill: 1
+Jupj fait un amorti_droit
+Joueur 1 a raté son retour
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  G  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   D 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   O   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :11,14
+
+boucle n° = 28
+joueur i (courant) = 0
+Score G = 12, Score D =12
+randskill: 3
+Zenf fait un drive
+f =3
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  G  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  D   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  O  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :3,11
+
+boucle n° = 29
+joueur i (courant) = 1
+Score G = 12, Score D =13
+randskill: 1
+Jupj fait un amorti_droit
+f =4
+Le volant tombe bien dans le terrain adversaire
+randskill: 3
+Zenf fait un drive
+Les joueurs ont réussi de frappé le volant
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  D  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  O  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  G  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :5,3
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  D  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  G  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :5,3
+
+boucle n° = 30
+joueur i (courant) = 0
+Score G = 12, Score D =13
+randskill: 3
+Zenf fait un drive
+f =2
+Le volant tombe bien dans le terrain adversaire
+randskill: 3
+Jupj fait un drive
+Joueur 1 a raté son retour
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  D  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  O  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :7,13
+
+boucle n° = 31
+joueur i (courant) = 0
+Score G = 13, Score D =13
+randskill: 1
+Zenf fait un amorti_droit
+f =5
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  G  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   D   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  O  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :5,13
+
+boucle n° = 32
+joueur i (courant) = 1
+Score G = 13, Score D =14
+randskill: 2
+Jupj fait un amorti_gauche
+f =4
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 1 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  G  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   D   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :7,-2
+
+boucle n° = 33
+joueur i (courant) = 0
+Score G = 14, Score D =14
+randskill: 3
+Zenf fait un drive
+f =5
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  G  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  D  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :16,9
+
+boucle n° = 34
+joueur i (courant) = 1
+Score G = 14, Score D =15
+randskill: 1
+Jupj fait un amorti_droit
+f =4
+Le volant tombe bien dans le terrain adversaire
+randskill: 2
+Zenf fait un amorti_gauche
+Les joueurs ont réussi de frappé le volant
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  G  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  D  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  O  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :4,8
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  D  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  G  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :4,8
+
+boucle n° = 35
+joueur i (courant) = 0
+Score G = 14, Score D =15
+randskill: 0
+Zenf fait un smash
+f =1
+Le volant tombe bien dans le terrain adversaire
+randskill: 0
+Jupj fait un smash
+Joueur 1 a raté son retour
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   D 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  O  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  G  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :7,2
+
+boucle n° = 36
+joueur i (courant) = 0
+Score G = 15, Score D =15
+randskill: 2
+Zenf fait un amorti_gauche
+f =3
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  G  -  -  -  O  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  D  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :5,13
+
+boucle n° = 37
+joueur i (courant) = 1
+Score G = 15, Score D =16
+randskill: 2
+Jupj fait un amorti_gauche
+f =3
+Le volant tombe bien dans le terrain adversaire
+randskill: 3
+Zenf fait un drive
+Les joueurs ont réussi de frappé le volant
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  D  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  G  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  O  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :4,11
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  D  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  G  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :4,11
+
+boucle n° = 38
+joueur i (courant) = 0
+Score G = 15, Score D =16
+randskill: 3
+Zenf fait un drive
+f =2
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   O   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  D  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 G  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :10,0
+
+boucle n° = 39
+joueur i (courant) = 1
+Score G = 15, Score D =17
+randskill: 1
+Jupj fait un amorti_droit
+f =4
+Le volant tombe bien dans le terrain adversaire
+randskill: 0
+Zenf fait un smash
+Les joueurs ont réussi de frappé le volant
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  G  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  O  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   D   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :4,6
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  G  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   D   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :4,6
+
+boucle n° = 40
+joueur i (courant) = 0
+Score G = 15, Score D =17
+randskill: 1
+Zenf fait un amorti_droit
+f =5
+Le volant tombe bien dans le terrain adversaire
+randskill: 2
+Jupj fait un amorti_gauche
+Joueur 1 a raté son retour
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  G  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  D  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  O  -  -  -   -   -   - 
+Position du volant :6,15
+
+boucle n° = 41
+joueur i (courant) = 0
+Score G = 16, Score D =17
+randskill: 2
+Zenf fait un amorti_gauche
+f =7
+Le volant a touche le filet
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  G  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  D  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :17,15
+
+boucle n° = 42
+joueur i (courant) = 1
+Score G = 16, Score D =18
+randskill: 3
+Jupj fait un drive
+f =4
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 1 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   D   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  G  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :0,17
+
+boucle n° = 43
+joueur i (courant) = 0
+Score G = 17, Score D =18
+randskill: 0
+Zenf fait un smash
+f =7
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  O  -  -  -  G  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   D   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :0,4
+
+boucle n° = 44
+joueur i (courant) = 1
+Score G = 17, Score D =19
+randskill: 0
+Jupj fait un smash
+f =9
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 1 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  D   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  G  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :-8,-7
+
+boucle n° = 45
+joueur i (courant) = 0
+Score G = 18, Score D =19
+randskill: 1
+Zenf fait un amorti_droit
+f =8
+Le volant sort du terrain
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  G  |  -  -  -   -   -   D 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :10,-2
+
+boucle n° = 46
+joueur i (courant) = 1
+Score G = 18, Score D =20
+randskill: 1
+Jupj fait un amorti_droit
+f =3
+Le volant tombe bien dans le terrain adversaire
+randskill: 2
+Zenf fait un amorti_gauche
+Les joueurs ont réussi de frappé le volant
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  D  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  G  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  O  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :3,14
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  -   -   -   - 
+4  -  -  -  -  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  D  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  G  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :3,14
+
+boucle n° = 47
+joueur i (courant) = 0
+Score G = 18, Score D =20
+randskill: 2
+Zenf fait un amorti_gauche
+f =5
+Le volant ne tombe pas dans le terrain adversaire
+Joueur 0 a raté sa frappe
+   0  1  2  3  4  5  6  7  8  9  10  11  12 
+0  -  -  -  -  -  -  |  -  -  -   -   -   - 
+1  -  -  -  -  -  -  |  -  -  -   -   -   - 
+2  -  -  -  -  -  -  |  -  -  -   -   -   - 
+3  -  -  -  -  -  -  |  -  -  D   -   -   - 
+4  -  -  G  O  -  -  |  -  -  -   -   -   - 
+5  -  -  -  -  -  -  |  -  -  -   -   -   - 
+6  -  -  -  -  -  -  |  -  -  -   -   -   - 
+7  -  -  -  -  -  -  |  -  -  -   -   -   - 
+8  -  -  -  -  -  -  |  -  -  -   -   -   - 
+9  -  -  -  -  -  -  |  -  -  -   -   -   - 
+10 -  -  -  -  -  -  |  -  -  -   -   -   - 
+11 -  -  -  -  -  -  |  -  -  -   -   -   - 
+12 -  -  -  -  -  -  |  -  -  -   -   -   - 
+13 -  -  -  -  -  -  |  -  -  -   -   -   - 
+14 -  -  -  -  -  -  |  -  -  -   -   -   - 
+15 -  -  -  -  -  -  |  -  -  -   -   -   - 
+Position du volant :3,4
+Joueur droite a gagné la partie
+Affichage du log:
+*Score G: 0 Score D: 0*
+*Zenf a fait un amorti droit*
+*Score G: 0 Score D: 1*
+*Jupj a fait un amorti gauche*
+*Score G: 1 Score D: 1*
+*Zenf a fait un amorti droit*
+*Score G: 1 Score D: 2*
+*Jupj a fait un drive*
+*Zenf a fait un drive*
+*Score G: 1 Score D: 2*
+*Zenf a fait un drive*
+*Score G: 1 Score D: 3*
+*Jupj a fait un amorti droit*
+*Score G: 2 Score D: 3*
+*Zenf a fait un amorti droit*
+*Score G: 2 Score D: 4*
+*Jupj a fait un drive*
+*Zenf a fait un smash*
+*Score G: 2 Score D: 4*
+*Zenf a fait un smash*
+*Jupj a fait un amorti droit*
+*Score G: 3 Score D: 4*
+*Zenf a fait un smash*
+*Score G: 3 Score D: 5*
+*Jupj a fait un smash*
+*Score G: 4 Score D: 5*
+*Zenf a fait un drive*
+*Score G: 4 Score D: 6*
+*Jupj a fait un amorti droit*
+*Score G: 5 Score D: 6*
+*Zenf a fait un amorti droit*
+*Score G: 5 Score D: 7*
+*Jupj a fait un smash*
+*Score G: 6 Score D: 7*
+*Zenf a fait un drive*
+*Score G: 6 Score D: 8*
+*Jupj a fait un drive*
+*Score G: 7 Score D: 8*
+*Zenf a fait un amorti gauche*
+*Jupj a fait un smash*
+*Score G: 8 Score D: 8*
+*Zenf a fait un smash*
+*Score G: 8 Score D: 9*
+*Jupj a fait un drive*
+*Score G: 9 Score D: 9*
+*Zenf a fait un amorti gauche*
+*Score G: 9 Score D: 10*
+*Jupj a fait un drive*
+*Zenf a fait un amorti gauche*
+*Score G: 9 Score D: 10*
+*Zenf a fait un drive*
+*Score G: 9 Score D: 11*
+*Jupj a fait un amorti gauche*
+*Score G: 10 Score D: 11*
+*Zenf a fait un smash*
+*Score G: 10 Score D: 12*
+*Jupj a fait un drive*
+*Score G: 11 Score D: 12*
+*Zenf a fait un amorti gauche*
+*Jupj a fait un amorti droit*
+*Score G: 12 Score D: 12*
+*Zenf a fait un drive*
+*Score G: 12 Score D: 13*
+*Jupj a fait un amorti droit*
+*Zenf a fait un drive*
+*Score G: 12 Score D: 13*
+*Zenf a fait un drive*
+*Jupj a fait un drive*
+*Score G: 13 Score D: 13*
+*Zenf a fait un amorti droit*
+*Score G: 13 Score D: 14*
+*Jupj a fait un amorti gauche*
+*Score G: 14 Score D: 14*
+*Zenf a fait un drive*
+*Score G: 14 Score D: 15*
+*Jupj a fait un amorti droit*
+*Zenf a fait un amorti gauche*
+*Score G: 14 Score D: 15*
+*Zenf a fait un smash*
+*Jupj a fait un smash*
+*Score G: 15 Score D: 15*
+*Zenf a fait un amorti gauche*
+*Score G: 15 Score D: 16*
+*Jupj a fait un amorti gauche*
+*Zenf a fait un drive*
+*Score G: 15 Score D: 16*
+*Zenf a fait un drive*
+*Score G: 15 Score D: 17*
+*Jupj a fait un amorti droit*
+*Zenf a fait un smash*
+*Score G: 15 Score D: 17*
+*Zenf a fait un amorti droit*
+*Jupj a fait un amorti gauche*
+*Score G: 16 Score D: 17*
+*Zenf a fait un amorti gauche*
+*Score G: 16 Score D: 18*
+*Jupj a fait un drive*
+*Score G: 17 Score D: 18*
+*Zenf a fait un smash*
+*Score G: 17 Score D: 19*
+*Jupj a fait un smash*
+*Score G: 18 Score D: 19*
+*Zenf a fait un amorti droit*
+*Score G: 18 Score D: 20*
+*Jupj a fait un amorti droit*
+*Zenf a fait un amorti gauche*
+*Score G: 18 Score D: 20*
+*Zenf a fait un amorti gauche*
+*Jupj a gagné la partie*
+
